@@ -31,3 +31,13 @@ Modified third-party clients that provide chinese optimized routes, and preserve
 
 [原版上游 / Upstream](https://github.com/chen08209/FlClash)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)
 <!-- client:flclash-fnf:end -->
+
+<!-- client:clash-meta-android-fnf:start -->
+## [Clash Meta for Android](clash-meta-android-fnf/)
+
+| 系统 / OS | 版本 / Version | 下载 / Downloads |
+| --- | --- | --- |
+| Android | v2.11.36-fnf1 | [arm64-v8a(常用)](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.36-fnf1-android-arm64-v8a.apk>) · [armeabi-v7a](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.36-fnf1-android-armeabi-v7a.apk>) · [x86](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.36-fnf1-android-x86.apk>) · [x86_64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.36-fnf1-android-x86_64.apk>) |
+
+[原版上游 / Upstream](https://github.com/MetaCubeX/ClashMetaForAndroid)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)
+<!-- client:clash-meta-android-fnf:end -->
