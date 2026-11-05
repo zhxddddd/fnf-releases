@@ -18,7 +18,7 @@ Modified third-party clients that provide chinese optimized routes, and preserve
 <!-- client:clash-verge-fnf:end -->
 
 <!-- client:flclash-fnf:start -->
-## [FlClash FNF](flclash-fnf/)
+## [Flclash](flclash-fnf/)
 
 | 系统 / OS | 版本 / Version | 下载 / Downloads |
 | --- | --- | --- |
@@ -28,4 +28,6 @@ Modified third-party clients that provide chinese optimized routes, and preserve
 | Linux DEB | v0.9.3-fnf1 | [x64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-amd64.deb>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-arm64.deb>) |
 | Linux RPM | v0.9.3-fnf1 | [x64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-amd64.rpm>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-arm64.rpm>) |
 | Linux AppImage | v0.9.3-fnf1 | [x64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-amd64.AppImage>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-arm64.AppImage>) |
+
+[原版上游 / Upstream](https://github.com/chen08209/FlClash)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)
 <!-- client:flclash-fnf:end -->
