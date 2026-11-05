@@ -16,3 +16,16 @@ Modified third-party clients that provide chinese optimized routes, and preserve
 
 [原版上游 / Upstream](https://github.com/clash-verge-rev/clash-verge-rev)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)
 <!-- client:clash-verge-fnf:end -->
+
+<!-- client:flclash-fnf:start -->
+## [FlClash FNF](flclash-fnf/)
+
+| 系统 / OS | 版本 / Version | 下载 / Downloads |
+| --- | --- | --- |
+| Android | v0.9.3-fnf1 | [arm64-v8a](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-android-arm64-v8a.apk>) · [armeabi-v7a](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-android-armeabi-v7a.apk>) · [x86_64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-android-x86_64.apk>) |
+| Windows | v0.9.3-fnf1 | [x64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-windows-amd64-setup.exe>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-windows-arm64-setup.exe>) |
+| macOS | v0.9.3-fnf1 | [Apple Silicon](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-macos-arm64.dmg>) · [Intel](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-macos-amd64.dmg>) |
+| Linux DEB | v0.9.3-fnf1 | [x64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-amd64.deb>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-arm64.deb>) |
+| Linux RPM | v0.9.3-fnf1 | [x64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-amd64.rpm>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-arm64.rpm>) |
+| Linux AppImage | v0.9.3-fnf1 | [x64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-amd64.AppImage>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/flclash-fnf/FlClash-0.9.3-fnf1-linux-arm64.AppImage>) |
+<!-- client:flclash-fnf:end -->
