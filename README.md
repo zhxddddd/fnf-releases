@@ -37,7 +37,16 @@ Modified third-party clients that provide chinese optimized routes, and preserve
 
 | 系统 / OS | 版本 / Version | 下载 / Downloads |
 | --- | --- | --- |
-| Android | v2.11.36-fnf2 | [arm64-v8a(常用)](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.36-fnf2-android-arm64-v8a.apk>) · [armeabi-v7a](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.36-fnf2-android-armeabi-v7a.apk>) · [x86](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.36-fnf2-android-x86.apk>) · [x86_64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.36-fnf2-android-x86_64.apk>) |
+| Android | v2.11.37-fnf3 | [arm64-v8a(常用)](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.37-fnf3-android-arm64-v8a.apk>) · [armeabi-v7a](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.37-fnf3-android-armeabi-v7a.apk>) · [x86](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.37-fnf3-android-x86.apk>) · [x86_64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.37-fnf3-android-x86_64.apk>) |
 
 [原版上游 / Upstream](https://github.com/MetaCubeX/ClashMetaForAndroid)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)
 <!-- client:clash-meta-android-fnf:end -->
+
+<!-- client:clash-party-fnf:start -->
+## [Clash Party](clash-party-fnf/)
+
+| 系统 / OS | 版本 / Version | 下载 / Downloads |
+| --- | --- | --- |
+| Windows | v2.0.5-fnf3 | [x64 安装包 / Installer](<https://github.com/zhxddddd/fnf-releases/releases/download/clash-party-v2.0.5-fnf3/clash-party-windows-2.0.5-fnf3-x64-setup.exe>) |
+
+<!-- client:clash-party-fnf:end -->
