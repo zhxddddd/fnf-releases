@@ -1,8 +1,10 @@
-# Bettbox FNF
+## Foo&Friends. Release
 
-首次发布 Bettbox FNF 版，支持 Foo&Friends. 订阅扩展。Windows 安装包沿用上游安装路径。Android 使用 Bettbox FNF 独立签名；已安装上游安卓版的用户首次切换前请备份配置。
+同步第三方客户端上游，发布优化线路修改版，保留各个客户端原功能，无感兼容其他机场。
 
-Windows 安装包未签名。安装包校验值见 [SHA256SUMS](https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/SHA256SUMS)。
+Modified third-party clients that provide chinese optimized routes, and preserve their original features. Use minimal changes, work seamlessly with other proxy providers.
+
+## Bettbox
 
 | 系统 / OS | 版本 / Version | 下载 / Downloads |
 | --- | --- | --- |
@@ -18,5 +20,9 @@ Windows 安装包未签名。安装包校验值见 [SHA256SUMS](https://github.c
 | Linux DEB（标准版） | v1.20.2-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-standard.deb>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-arm64-standard.deb>) · [x64 兼容版](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-compatible-standard.deb>) |
 | Linux RPM（标准版） | v1.20.2-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-standard.rpm>) · [x64 兼容版](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-compatible-standard.rpm>) |
 | Linux AppImage（标准版） | v1.20.2-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-standard.AppImage>) · [x64 兼容版](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-compatible-standard.AppImage>) |
+
+Android 使用 Bettbox FNF 独立签名。已安装上游安卓版的用户首次切换前请备份配置。
+
+Windows 安装包未签名。安装包校验值见 [SHA256SUMS](https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/SHA256SUMS)。
 
 [原版上游 / Upstream](https://github.com/appshubcc/Bettbox)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)

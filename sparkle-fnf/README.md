@@ -1,8 +1,10 @@
-# Sparkle FNF
+## Foo&Friends. Release
 
-首次发布 Sparkle FNF 版，支持 Foo&Friends. 订阅扩展。导入结果显示在订阅输入框下方，失败后可直接重试。Windows 安装包沿用上游安装路径。
+同步第三方客户端上游，发布优化线路修改版，保留各个客户端原功能，无感兼容其他机场。
 
-Windows 安装包未签名。macOS 应用使用 ad hoc 签名，PKG 未经 Apple 公证。安装包校验值见 [SHA256SUMS](https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/SHA256SUMS)。
+Modified third-party clients that provide chinese optimized routes, and preserve their original features. Use minimal changes, work seamlessly with other proxy providers.
+
+## Sparkle
 
 | 系统 / OS | 版本 / Version | 下载 / Downloads |
 | --- | --- | --- |
@@ -11,5 +13,7 @@ Windows 安装包未签名。macOS 应用使用 ad hoc 签名，PKG 未经 Apple
 | Linux DEB | v1.26.10-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-amd64.deb>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-arm64.deb>) · [LoongArch64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-loong64.deb>) |
 | Linux RPM | v1.26.10-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-x86_64.rpm>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-aarch64.rpm>) · [LoongArch64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-loongarch64.rpm>) |
 | Linux pacman | v1.26.10-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-x64.pkg.tar.zst>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-aarch64.pkg.tar.zst>) · [LoongArch64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-loong64.pkg.tar.zst>) |
+
+Windows 安装包未签名。macOS 应用使用 ad hoc 签名，PKG 未经 Apple 公证。安装包校验值见 [SHA256SUMS](https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/SHA256SUMS)。
 
 [原版上游 / Upstream](https://github.com/xishang0128/sparkle)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)
