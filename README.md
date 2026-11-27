@@ -57,3 +57,38 @@ Modified third-party clients that provide chinese optimized routes, and preserve
 
 [原版上游 / Upstream](https://github.com/mihomo-party-org/clash-party)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)
 <!-- client:clash-party-fnf:end -->
+
+<!-- client:bettbox-fnf:start -->
+## [Bettbox](bettbox-fnf/)
+
+| 系统 / OS | 版本 / Version | 下载 / Downloads |
+| --- | --- | --- |
+| Windows | v1.20.2-fnf3 | [x64(常用)](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-windows-amd64-setup.exe>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-windows-arm64-setup.exe>) · [x64 兼容版](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-windows-amd64-compatible-setup.exe>) |
+| Android | v1.20.2-fnf3 | [ARM64(常用)](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-android-arm64-v8a.apk>) · [ARMv7](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-android-armeabi-v7a.apk>) · [x86_64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-android-x86_64.apk>) · [通用](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-android-universal.apk>) |
+| macOS | v1.20.2-fnf3 | [Apple Silicon](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-macos-arm64.dmg>) · [Intel](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-macos-amd64.dmg>) |
+| Linux DEB | v1.20.2-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64.deb>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-arm64.deb>) · [x64 兼容版](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-compatible.deb>) |
+| Linux RPM | v1.20.2-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64.rpm>) · [x64 兼容版](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-compatible.rpm>) |
+| Linux AppImage | v1.20.2-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64.AppImage>) · [x64 兼容版](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-compatible.AppImage>) |
+| Windows（标准版） | v1.20.2-fnf3 | [x64(常用)](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-windows-amd64-standard-setup.exe>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-windows-arm64-standard-setup.exe>) · [x64 兼容版](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-windows-amd64-compatible-standard-setup.exe>) |
+| Android（标准版） | v1.20.2-fnf3 | [ARM64(常用)](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-android-standard-arm64-v8a.apk>) · [ARMv7](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-android-standard-armeabi-v7a.apk>) · [x86_64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-android-standard-x86_64.apk>) · [通用](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-android-standard-universal.apk>) |
+| macOS（标准版） | v1.20.2-fnf3 | [Apple Silicon](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-macos-arm64-standard.dmg>) · [Intel](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-macos-amd64-standard.dmg>) |
+| Linux DEB（标准版） | v1.20.2-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-standard.deb>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-arm64-standard.deb>) · [x64 兼容版](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-compatible-standard.deb>) |
+| Linux RPM（标准版） | v1.20.2-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-standard.rpm>) · [x64 兼容版](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-compatible-standard.rpm>) |
+| Linux AppImage（标准版） | v1.20.2-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-standard.AppImage>) · [x64 兼容版](<https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/Bettbox-1.20.2-fnf3-linux-amd64-compatible-standard.AppImage>) |
+
+[原版上游 / Upstream](https://github.com/appshubcc/Bettbox)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)
+<!-- client:bettbox-fnf:end -->
+
+<!-- client:sparkle-fnf:start -->
+## [Sparkle](sparkle-fnf/)
+
+| 系统 / OS | 版本 / Version | 下载 / Downloads |
+| --- | --- | --- |
+| Windows | v1.26.10-fnf3 | [x64(常用)](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-windows-1.26.10-fnf3-x64-setup.exe>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-windows-1.26.10-fnf3-arm64-setup.exe>) |
+| macOS | v1.26.10-fnf3 | [Apple Silicon](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-macos-1.26.10-fnf3-arm64.pkg>) · [Intel](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-macos-1.26.10-fnf3-x64.pkg>) |
+| Linux DEB | v1.26.10-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-amd64.deb>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-arm64.deb>) · [LoongArch64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-loong64.deb>) |
+| Linux RPM | v1.26.10-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-x86_64.rpm>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-aarch64.rpm>) · [LoongArch64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-loongarch64.rpm>) |
+| Linux pacman | v1.26.10-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-x64.pkg.tar.zst>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-aarch64.pkg.tar.zst>) · [LoongArch64](<https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/sparkle-linux-1.26.10-fnf3-loong64.pkg.tar.zst>) |
+
+[原版上游 / Upstream](https://github.com/xishang0128/sparkle)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)
+<!-- client:sparkle-fnf:end -->
