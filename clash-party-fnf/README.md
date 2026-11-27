@@ -16,4 +16,6 @@ Modified third-party clients that provide chinese optimized routes, and preserve
 | Linux RPM | v2.0.5-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/clash-party-v2.0.5-fnf3/clash-party-linux-2.0.5-fnf3-x86_64.rpm>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/clash-party-v2.0.5-fnf3/clash-party-linux-2.0.5-fnf3-aarch64.rpm>) |
 | Linux pacman | v2.0.5-fnf3 | [x64](<https://github.com/zhxddddd/fnf-releases/releases/download/clash-party-v2.0.5-fnf3/clash-party-linux-2.0.5-fnf3-x64.pkg.tar.zst>) · [ARM64](<https://github.com/zhxddddd/fnf-releases/releases/download/clash-party-v2.0.5-fnf3/clash-party-linux-2.0.5-fnf3-aarch64.pkg.tar.zst>) |
 
+[此应用的全部版本 / All versions](https://github.com/zhxddddd/fnf-releases/blob/main/RELEASES.md#clash-party)
+
 [原版上游 / Upstream](https://github.com/mihomo-party-org/clash-party)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)

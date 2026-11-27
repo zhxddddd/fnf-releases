@@ -16,4 +16,6 @@ Modified third-party clients that provide chinese optimized routes, and preserve
 
 Windows 安装包未签名。macOS 应用使用 ad hoc 签名，PKG 未经 Apple 公证。安装包校验值见 [SHA256SUMS](https://github.com/zhxddddd/fnf-releases/releases/download/sparkle-v1.26.10-fnf3/SHA256SUMS)。
 
+[此应用的全部版本 / All versions](https://github.com/zhxddddd/fnf-releases/blob/main/RELEASES.md#sparkle)
+
 [原版上游 / Upstream](https://github.com/xishang0128/sparkle)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)

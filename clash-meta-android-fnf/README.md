@@ -8,7 +8,9 @@ Modified third-party clients that provide chinese optimized routes, and preserve
 
 | 系统 / OS | 版本 / Version | 下载 / Downloads |
 | --- | --- | --- |
-| Android | v2.11.37-fnf3 | [arm64-v8a(常用)](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.37-fnf3-android-arm64-v8a.apk>) · [armeabi-v7a](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.37-fnf3-android-armeabi-v7a.apk>) · [x86](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.37-fnf3-android-x86.apk>) · [x86_64](<https://github.com/zhxddddd/fnf-releases/raw/refs/heads/main/clash-meta-android-fnf/Clash.Meta.for.Android-2.11.37-fnf3-android-x86_64.apk>) |
+| Android | v2.11.37-fnf3 | [arm64-v8a(常用)](<https://github.com/zhxddddd/fnf-releases/releases/download/clash-meta-android-v2.11.37-fnf3/Clash.Meta.for.Android-2.11.37-fnf3-android-arm64-v8a.apk>) · [armeabi-v7a](<https://github.com/zhxddddd/fnf-releases/releases/download/clash-meta-android-v2.11.37-fnf3/Clash.Meta.for.Android-2.11.37-fnf3-android-armeabi-v7a.apk>) · [x86](<https://github.com/zhxddddd/fnf-releases/releases/download/clash-meta-android-v2.11.37-fnf3/Clash.Meta.for.Android-2.11.37-fnf3-android-x86.apk>) · [x86_64](<https://github.com/zhxddddd/fnf-releases/releases/download/clash-meta-android-v2.11.37-fnf3/Clash.Meta.for.Android-2.11.37-fnf3-android-x86_64.apk>) |
+
+[此应用的全部版本 / All versions](https://github.com/zhxddddd/fnf-releases/blob/main/RELEASES.md#clash-meta-for-android)
 
 [原版上游 / Upstream](https://github.com/MetaCubeX/ClashMetaForAndroid)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)
 

@@ -25,4 +25,6 @@ Android 使用 Bettbox FNF 独立签名。已安装上游安卓版的用户首�
 
 Windows 安装包未签名。安装包校验值见 [SHA256SUMS](https://github.com/zhxddddd/fnf-releases/releases/download/bettbox-v1.20.2-fnf3/SHA256SUMS)。
 
+[此应用的全部版本 / All versions](https://github.com/zhxddddd/fnf-releases/blob/main/RELEASES.md#bettbox)
+
 [原版上游 / Upstream](https://github.com/appshubcc/Bettbox)  ·  [Foo&Friends. 官网 / Foo&Friends. Website](https://www.fnf.xyz)
